@@ -1,0 +1,1 @@
+ssh -i "DevOpsKeyPair.pem" ec2-user@ec2-35-175-105-151.compute-1.amazonaws.com
